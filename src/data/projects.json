@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Portfolio Website",
+        "imageSrc": "projects/portfolioWebsite.png",
+        "description": "Portfolio website to display skills and projects",
+        "skills": [
+            "React",
+            "Javascript",
+            "HTML",
+            "CSS"
+        ],
+        "demo": "https://www.youtube.com/watch?v=rBHJkrmFqg0",
+        "source": "https://github.com/Milito97/toy-store-app"
+    },
+    {
+        "title": "Toy Store Inventory",
+        "imageSrc": "projects/inventoryProject.png",
+        "description": "Small Inventory App to manage a Toy Store",
+        "skills": [
+            "Java",
+            "JavaFX",
+            "GUI"
+        ],
+        "demo": "https://www.youtube.com/watch?v=rBHJkrmFqg0",
+        "source": "https://github.com/Milito97/toy-store-app"
+    },
+    {
+        "title": "Morse Code Encoder/Decoder",
+        "imageSrc": "projects/morseCipher.png",
+        "description": "This is a morse code encoder and decoder",
+        "skills": [
+            "Java",
+            "Binary Trees"
+        ],
+        "demo": "https://www.youtube.com",
+        "source": "https://github.com/Milito97/morse-code-cipher"
+    },
+    {
+        "title": "WAR Card Game!!",
+        "imageSrc": "projects/warGame.png",
+        "description": "War Card Game app. This game was designed to use a stack, single and doubly linked lists",
+        "skills": [
+            "Java",
+            "Linked Lists",
+            "Stack"
+        ],
+        "demo": "https://www.youtube.com",
+        "source": "https://github.com/Milito97/war-card-game"
+    }
+]

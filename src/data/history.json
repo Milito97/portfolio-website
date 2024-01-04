@@ -1,0 +1,36 @@
+[
+    {
+        "role": "Intramural Student Leader",
+        "organisation": "MRU Cougars and Athletics",
+        "startDate": "Sept, 2022",
+        "endDate": "Present",
+        "experiences": [
+            "Supervise",
+            "Organize",
+            "Problem Solving"
+        ],
+        "imageSrc": "history/mru.jpg"
+    },
+    {
+        "role": "Drillers Assistant",
+        "organisation": "DoubleStar Drilling",
+        "startDate": "July, 2018",
+        "endDate": "August, 2022",
+        "experiences": [
+            "Heavy Equipment Operator",
+            "Teamwork",
+            "Speaking with Clients"
+        ],
+        "imageSrc": "history/doublestar.jpg"
+    },
+    {
+        "role": "Student",
+        "organisation": "Lethbridge College",
+        "startDate": "January 2016",
+        "endDate": "April, 2018",
+        "experiences": [
+            "Criminal Justice Diploma"
+        ],
+        "imageSrc": "history/lethbridgecollege.png"
+    }
+]
